@@ -1,7 +1,7 @@
 {
   "name": "knockout-mapping-js",
   "main": "build/output/knockout.mapping-latest.js",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "homepage": "https://github.com/LRPalacios/knockout.mapping",
   "authors": [
     "LRPalacios <luisz54@hotmail.com>"
